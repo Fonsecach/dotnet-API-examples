@@ -1,0 +1,15 @@
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/bin/Debug/net8.0/Exe03
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/bin/Debug/net8.0/Exe03.deps.json
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/bin/Debug/net8.0/Exe03.runtimeconfig.json
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/bin/Debug/net8.0/Exe03.dll
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/bin/Debug/net8.0/Exe03.pdb
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.AssemblyInfoInputs.cache
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.AssemblyInfo.cs
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.csproj.CoreCompileInputs.cache
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.sourcelink.json
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.dll
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/refint/Exe03.dll
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.pdb
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/Exe03.genruntimeconfig.cache
+/home/cleiton/Documentos/GitHub/dotnet-API-examples/ListaExercicios/Exe03/obj/Debug/net8.0/ref/Exe03.dll
