@@ -22,5 +22,3 @@ else
   Console.WriteLine($"O maior número é {maior}");
 }
 
-
-
